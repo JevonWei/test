@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubernetes-apiserver-amd64:v1.11.1
+FROM k8s.gcr.io/kube-scheduler-amd64:v1.9.3
 MAINTAINER jevonwei
